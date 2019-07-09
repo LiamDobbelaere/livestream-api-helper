@@ -1,0 +1,24 @@
+{
+  "name": "livestream-api-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomDobbelaere/livestream-api-helper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TomDobbelaere/livestream-api-helper/issues"
+  },
+  "homepage": "https://github.com/TomDobbelaere/livestream-api-helper#readme",
+  "dependencies": {
+    "diskusage": "^1.1.3",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1"
+  }
+}
